@@ -11,6 +11,7 @@ opencv-python = "^4.8.1.78"
 matplotlib = "^3.8.2"
 opencv-contrib-python = "^4.8.1.78"
 tensorflow = "^2.15.0"
+pdf2image = "^1.16.3"
 
 
 [build-system]
